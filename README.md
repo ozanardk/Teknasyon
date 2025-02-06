@@ -1,0 +1,2 @@
+# Teknasyon
+Teknasyon vaka çalışması
